@@ -27,8 +27,7 @@ Before you begin, ensure you have met the following requirements:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/OmNilawar/DealsDray.git
-cd basicCrud
+git clone https://github.com/mandarsd18/basic-CRUD.git
 ```
 
 ### Backend Setup
